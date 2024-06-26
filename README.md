@@ -1,1 +1,1 @@
-# EasyResto
+# EazyResto
